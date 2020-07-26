@@ -1,0 +1,24 @@
+2020-07-26T01:12:08+00:00 CRITICAL syntax error, unexpected ')', em C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\template-home.php, na linha 34
+
+2020-07-26T01:15:36+00:00 CRITICAL syntax error, unexpected '?>', em C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\template-home.php, na linha 40
+
+2020-07-26T02:30:10+00:00 CRITICAL Cannot redeclare theme_slug_sanitize_select() (previously declared in C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\inc\customizer.php:136), em C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\inc\customizer.php, na linha 136
+
+2020-07-26T02:43:55+00:00 CRITICAL Cannot redeclare theme_slug_sanitize_select() (previously declared in C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\inc\customizer.php:126), em C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\inc\customizer.php, na linha 126
+
+2020-07-26T02:46:16+00:00 CRITICAL Cannot redeclare theme_slug_sanitize_select() (previously declared in C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\inc\customizer.php:126), em C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\inc\customizer.php, na linha 126
+
+2020-07-26T02:47:33+00:00 CRITICAL Cannot redeclare theme_slug_sanitize_select() (previously declared in C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\inc\customizer.php:126), em C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\inc\customizer.php, na linha 126
+
+2020-07-26T02:48:34+00:00 CRITICAL Cannot redeclare theme_slug_sanitize_select() (previously declared in C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\inc\customizer.php:126), em C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\inc\customizer.php, na linha 126
+
+2020-07-26T02:49:32+00:00 CRITICAL Cannot redeclare theme_slug_sanitize_select() (previously declared in C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\inc\customizer.php:126), em C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\inc\customizer.php, na linha 126
+
+2020-07-26T02:49:33+00:00 CRITICAL Cannot redeclare theme_slug_sanitize_select() (previously declared in C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\inc\customizer.php:126), em C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\inc\customizer.php, na linha 126
+
+2020-07-26T02:49:33+00:00 CRITICAL Cannot redeclare theme_slug_sanitize_select() (previously declared in C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\inc\customizer.php:126), em C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\inc\customizer.php, na linha 126
+
+2020-07-26T02:52:18+00:00 CRITICAL Cannot redeclare theme_slug_sanitize_select() (previously declared in C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\inc\customizer.php:126), em C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\inc\customizer.php, na linha 126
+
+2020-07-26T02:52:19+00:00 CRITICAL Cannot redeclare theme_slug_sanitize_select() (previously declared in C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\inc\customizer.php:126), em C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\inc\customizer.php, na linha 126
+

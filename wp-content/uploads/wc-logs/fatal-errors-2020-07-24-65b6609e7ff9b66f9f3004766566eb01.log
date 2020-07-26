@@ -1,0 +1,8 @@
+2020-07-24T06:06:49+00:00 CRITICAL require_once(): Failed opening required 'C:\Apache24\htdocs\wordpress_ms_vestido/wp-content/themes/meu_seu_vestido/class-wp-bootstrap-navwalker.php' (include_path='.;C:\php\pear'), em C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\functions.php, na linha 45
+
+2020-07-24T06:07:29+00:00 CRITICAL require_once(): Failed opening required 'C:\Apache24\htdocs\wordpress_ms_vestido/wp-content/themes/meu_seu_vestido/class-wp-bootstrap-navwalker.php' (include_path='.;C:\php\pear'), em C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\functions.php, na linha 45
+
+2020-07-24T06:07:30+00:00 CRITICAL require_once(): Failed opening required 'C:\Apache24\htdocs\wordpress_ms_vestido/wp-content/themes/meu_seu_vestido/class-wp-bootstrap-navwalker.php' (include_path='.;C:\php\pear'), em C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\functions.php, na linha 45
+
+2020-07-24T06:07:44+00:00 CRITICAL require_once(): Failed opening required 'C:\Apache24\htdocs\wordpress_ms_vestido/wp-content/themes/meu_seu_vestido/class-wp-bootstrap-navwalker.php' (include_path='.;C:\php\pear'), em C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\functions.php, na linha 45
+

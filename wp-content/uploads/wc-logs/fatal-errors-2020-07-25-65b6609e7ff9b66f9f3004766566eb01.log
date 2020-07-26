@@ -1,0 +1,69 @@
+2020-07-25T16:33:56+00:00 CRITICAL Uncaught Error: Call to undefined function twentytwenty_unique_id() in C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\searchform.php:3
+Stack trace:
+#0 C:\Apache24\htdocs\wordpress_ms_vestido\wp-includes\general-template.php(258): require()
+#1 C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\header.php(19): get_search_form()
+#2 C:\Apache24\htdocs\wordpress_ms_vestido\wp-includes\template.php(723): require_once('C:\\Apache24\\htd...')
+#3 C:\Apache24\htdocs\wordpress_ms_vestido\wp-includes\template.php(672): load_template('C:\\Apache24\\htd...', true)
+#4 C:\Apache24\htdocs\wordpress_ms_vestido\wp-includes\general-template.php(41): locate_template(Array, true)
+#5 C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\index.php(1): get_header()
+#6 C:\Apache24\htdocs\wordpress_ms_vestido\wp-includes\template-loader.php(106): include('C:\\Apache24\\htd...')
+#7 C:\Apache24\htdocs\wordpress_ms_vestido\wp-blog-header.php(19): require_once('C:\\Apach, em C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\searchform.php, na linha 3
+
+2020-07-25T20:01:03+00:00 CRITICAL Uncaught Error: Object of class WP_User could not be converted to string in C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\header.php:29
+Stack trace:
+#0 C:\Apache24\htdocs\wordpress_ms_vestido\wp-includes\template.php(723): require_once()
+#1 C:\Apache24\htdocs\wordpress_ms_vestido\wp-includes\template.php(672): load_template('C:\\Apache24\\htd...', true)
+#2 C:\Apache24\htdocs\wordpress_ms_vestido\wp-includes\general-template.php(41): locate_template(Array, true)
+#3 C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\page.php(1): get_header()
+#4 C:\Apache24\htdocs\wordpress_ms_vestido\wp-includes\template-loader.php(106): include('C:\\Apache24\\htd...')
+#5 C:\Apache24\htdocs\wordpress_ms_vestido\wp-blog-header.php(19): require_once('C:\\Apache24\\htd...')
+#6 C:\Apache24\htdocs\wordpress_ms_vestido\index.php(17): require('C:\\Apache24\\htd...')
+#7 {main}
+  thrown, em C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\header.php, na linha 29
+
+2020-07-25T20:01:17+00:00 CRITICAL Uncaught Error: Object of class WP_User could not be converted to string in C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\header.php:29
+Stack trace:
+#0 C:\Apache24\htdocs\wordpress_ms_vestido\wp-includes\template.php(723): require_once()
+#1 C:\Apache24\htdocs\wordpress_ms_vestido\wp-includes\template.php(672): load_template('C:\\Apache24\\htd...', true)
+#2 C:\Apache24\htdocs\wordpress_ms_vestido\wp-includes\general-template.php(41): locate_template(Array, true)
+#3 C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\page.php(1): get_header()
+#4 C:\Apache24\htdocs\wordpress_ms_vestido\wp-includes\template-loader.php(106): include('C:\\Apache24\\htd...')
+#5 C:\Apache24\htdocs\wordpress_ms_vestido\wp-blog-header.php(19): require_once('C:\\Apache24\\htd...')
+#6 C:\Apache24\htdocs\wordpress_ms_vestido\index.php(17): require('C:\\Apache24\\htd...')
+#7 {main}
+  thrown, em C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\header.php, na linha 29
+
+2020-07-25T20:01:51+00:00 CRITICAL Uncaught Error: Object of class WP_User could not be converted to string in C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\header.php:29
+Stack trace:
+#0 C:\Apache24\htdocs\wordpress_ms_vestido\wp-includes\template.php(723): require_once()
+#1 C:\Apache24\htdocs\wordpress_ms_vestido\wp-includes\template.php(672): load_template('C:\\Apache24\\htd...', true)
+#2 C:\Apache24\htdocs\wordpress_ms_vestido\wp-includes\general-template.php(41): locate_template(Array, true)
+#3 C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\page.php(1): get_header()
+#4 C:\Apache24\htdocs\wordpress_ms_vestido\wp-includes\template-loader.php(106): include('C:\\Apache24\\htd...')
+#5 C:\Apache24\htdocs\wordpress_ms_vestido\wp-blog-header.php(19): require_once('C:\\Apache24\\htd...')
+#6 C:\Apache24\htdocs\wordpress_ms_vestido\index.php(17): require('C:\\Apache24\\htd...')
+#7 {main}
+  thrown, em C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\header.php, na linha 29
+
+2020-07-25T21:33:25+00:00 CRITICAL require_once(): Failed opening required 'C:\Apache24\htdocs\wordpress_ms_vestido/wp-content/themes/meu_seu_vestido/inc/customizer .php' (include_path='.;C:\php\pear'), em C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\functions.php, na linha 3
+
+2020-07-25T21:34:05+00:00 CRITICAL require_once(): Failed opening required 'C:\Apache24\htdocs\wordpress_ms_vestido/wp-content/themes/meu_seu_vestido/inc/customizer .php' (include_path='.;C:\php\pear'), em C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\functions.php, na linha 3
+
+2020-07-25T22:40:32+00:00 CRITICAL Uncaught Error: Call to a member function isGroup() on null in C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\plugins\smart-slider-3\Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe.php:39
+Stack trace:
+#0 C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\plugins\smart-slider-3\Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider.php(32): Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe->display()
+#1 [internal function]: Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider->actionIframe()
+#2 C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\plugins\smart-slider-3\Nextend\Framework\Controller\AbstractController.php(93): call_user_func_array(Array, Array)
+#3 C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\plugins\smart-slider-3\Nextend\Framework\Application\AbstractApplicationType.php(88): Nextend\Framework\Controller\AbstractController->doAction('iframe', Array)
+#4 C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\plugins\smart-slider-3, em C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\plugins\smart-slider-3\Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe.php, na linha 39
+
+2020-07-25T22:47:16+00:00 CRITICAL Uncaught Error: Call to a member function isGroup() on null in C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\plugins\smart-slider-3\Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe.php:39
+Stack trace:
+#0 C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\plugins\smart-slider-3\Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider.php(32): Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe->display()
+#1 [internal function]: Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider->actionIframe()
+#2 C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\plugins\smart-slider-3\Nextend\Framework\Controller\AbstractController.php(93): call_user_func_array(Array, Array)
+#3 C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\plugins\smart-slider-3\Nextend\Framework\Application\AbstractApplicationType.php(88): Nextend\Framework\Controller\AbstractController->doAction('iframe', Array)
+#4 C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\plugins\smart-slider-3, em C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\plugins\smart-slider-3\Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe.php, na linha 39
+
+2020-07-25T23:29:57+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF), em C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\template-home.php, na linha 75
+
