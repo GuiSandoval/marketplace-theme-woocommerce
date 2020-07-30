@@ -89,7 +89,7 @@ Template Name: Home Page
             </div>
         </section>
         <section class="destaque-produtos">
-            <div class="container">
+            <div class="container">s
                 <div class="row">Produtos em Destaque</div>
             </div>
         </section>
