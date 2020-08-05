@@ -84,3 +84,29 @@ function meu_seu_vestido_woocommerce_header_add_to_cart_fragment( $fragments ) {
 	$fragments['span.items'] = ob_get_clean();
 	return $fragments;
 }
+
+add_action('widgets_init', 'meu_seu_vestido_sidebars');
+
+function meu_seu_vestido_sidebars(){
+    register_sidebar(array(
+        'name'          => 'Sidebar Principal',
+        'id'            => 'meu-seu-vestido-sidebar-1',
+        'description'   => 'Arraste e solte os widgets aqui',
+        'before_widget' => '<div id="%1$s" class="widget %2$s widget-wrapper">',
+        'after_widget'  => '</div>',
+        'before_title'  => '<h4 class="widget-title">',
+        'after_title'   => '</h4>',
+
+    ));
+    register_sidebar(array(
+        'name'          => 'Sidebar Loja',
+        'id'            => 'meu-seu-vestido-sidebar-shop',
+        'description'   => 'Arraste e solte os widgets aqui para a página de loja',
+        'before_widget' => '<div id="%1$s" class="widget %2$s widget-wrapper">',
+        'after_widget'  => '</div>',
+        'before_title'  => '<h4 class="widget-title">',
+        'after_title'   => '</h4>',
+
+    ));
+
+}
