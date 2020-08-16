@@ -48,6 +48,28 @@ body{
     display: block;
     margin-top: 0; 
  }
+ .woocommerce-MyAccount-navigation-link{
+    list-style-type: none;
+    background-color: #dc3545;
+    text-align: center;
+    border-bottom: 1px solid black;
+    cursor:pointer;
+    padding:15px 0px;
+
+ }
+ .woocommerce-MyAccount-navigation-link:hover{
+    background-color: #212529;
+ }
+ .woocommerce-MyAccount-navigation-link > a{
+    color: #212529;
+    display: block;
+    font-weight: 900;
+
+  }
+  .woocommerce-MyAccount-navigation-link:hover > a{
+    color: #dc3545;
+    text-decoration: none;
+  }
 /* ******************************************************************************************** */
 /* ****************************************** MENU ******************************************** */
 /* ******************************************************************************************** */
