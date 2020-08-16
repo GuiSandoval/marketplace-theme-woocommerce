@@ -9,8 +9,8 @@
 </head>
 
 <body <?php body_class(); ?>>
-    <div id="page" class="site pt-5">
-        <header>
+    <div id="page" class="site">
+        <header class="header-principal pt-5"> 
             <!-- CAIXA DE PESQUISA E CONTA -->
             <section class="top-bar">
                 <div class="container">
@@ -87,5 +87,4 @@
                     </div>
                 </div>
             </section>
-            <hr>
         </header>
