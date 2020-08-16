@@ -22,7 +22,7 @@ get_header(); ?>
                                 <div class="post-thumbnail">
                                     <?php
                                     if (has_post_thumbnail()) :
-                                        the_post_thumbnail(array("class" => 'img-fluid'));
+                                        the_post_thumbnail('meu-seu-vestido-slider',array("class" => 'img-fluid'));
                                     endif;
                                     ?>
                                 </div>
