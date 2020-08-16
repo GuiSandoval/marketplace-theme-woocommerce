@@ -65,7 +65,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <nav class="main-menu navbar navbar-expand-md navbar-light" role="navigation">
+                            <nav class="main-menu navbar navbar-expand-md navbar-topo navbar-light" role="navigation">
                                 <!-- Brand and toggle get grouped for better mobile display -->
                                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-controls="bs-example-navbar-collapse-1" aria-expanded="false" aria-label="<?php esc_attr_e('Toggle navigation', 'your-theme-slug'); ?>">
                                     <span class="navbar-toggler-icon"></span>
