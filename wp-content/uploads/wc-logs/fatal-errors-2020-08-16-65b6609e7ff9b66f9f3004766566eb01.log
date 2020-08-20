@@ -1,0 +1,4 @@
+2020-08-16T21:37:00+00:00 CRITICAL syntax error, unexpected ''next_text'' (T_CONSTANT_ENCAPSED_STRING), expecting ')', em C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\index.php, na linha 37
+
+2020-08-16T23:29:00+00:00 CRITICAL syntax error, unexpected ''class'' (T_CONSTANT_ENCAPSED_STRING), expecting ')', em C:\Apache24\htdocs\wordpress_ms_vestido\wp-content\themes\meu_seu_vestido\footer.php, na linha 11
+
