@@ -7,7 +7,8 @@
                 <nav class="footer-menu">
                 <?php wp_nav_menu(
                     array(
-                        'theme_location' => 'meu_seu_vestido_menu_footer'
+                        'theme_location'    => 'meu_seu_vestido_menu_footer',
+                        'menu_class'             => 'menu-footer  '
                     )
                 );
                 ?>

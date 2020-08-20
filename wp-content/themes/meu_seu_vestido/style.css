@@ -93,7 +93,7 @@ a{color: #dc3545; text-decoration: none;}
 .main-menu .dropup:hover>.dropdown-menu {
     display: block;
 }
-.menu-item a{
+.navbar-topo .menu-item a{
     display: block;
     padding: 20px 15px !important;
 }
@@ -328,6 +328,18 @@ a{color: #dc3545; text-decoration: none;}
 /* ******************************************************************************************** */
 .footerCopyright{
     font-size: small;
+}
+.menu-footer, .menu-footer li a{
+    list-style: none;
+    color: #B3B3B3;
+}
+.menu-footer li a:hover{
+    color:#dc3545;
+    transition-duration: .6s;
+    text-decoration: none;
+}
+.menu-footer li{
+    padding-bottom: 10px;
 }
 /* Lista de Posts (Blog) */
 .bloco-posts{
